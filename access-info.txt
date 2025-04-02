@@ -1,0 +1,4 @@
+database srv
+username - database1
+password = P@ssword1
+
